@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GIP 2015-2016</title>
-    <link>localhost:1313</link>
+    <link>http://maarten-vissers.github.io/</link>
     <description>Recent content on GIP 2015-2016</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Oct 2015 22:53:12 +0200</lastBuildDate>
-    <atom:link href="#ZgotmplZ" rel="self" type="application/rss+xml" />
+    <atom:link href="http://maarten-vissers.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>WebsiteWorkflows</title>
-      <link>localhost:1313</link>
+      <link>http://maarten-vissers.github.io/GipTaak/websiteworkflows/</link>
       <pubDate>Wed, 21 Oct 2015 22:53:12 +0200</pubDate>
       
-      <guid>localhost:1313</guid>
+      <guid>http://maarten-vissers.github.io/GipTaak/websiteworkflows/</guid>
       <description>
 
 &lt;h1 id=&#34;1-wordpress-vs-go-hugo:4c5f97108e25a5064c4e6f6158ee7471&#34;&gt;1) Wordpress vs (Go)Hugo&lt;/h1&gt;
@@ -118,10 +118,10 @@ Ik geef ze dezelfde opmaak, dus maak ik gebruik van een _default map met maar é
     
     <item>
       <title>FAQ</title>
-      <link>localhost:1313</link>
+      <link>http://maarten-vissers.github.io/GipTaak/FAQ/</link>
       <pubDate>Wed, 21 Oct 2015 22:53:12 +0200</pubDate>
       
-      <guid>localhost:1313</guid>
+      <guid>http://maarten-vissers.github.io/GipTaak/FAQ/</guid>
       <description>
 
 &lt;h1 id=&#34;faq:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;FAQ&lt;/h1&gt;
@@ -132,10 +132,10 @@ Ik geef ze dezelfde opmaak, dus maak ik gebruik van een _default map met maar é
     
     <item>
       <title>IT autobiography</title>
-      <link>localhost:1313</link>
+      <link>http://maarten-vissers.github.io/GipTaak/IT-autobiography/</link>
       <pubDate>Wed, 21 Oct 2015 22:35:01 +0200</pubDate>
       
-      <guid>localhost:1313</guid>
+      <guid>http://maarten-vissers.github.io/GipTaak/IT-autobiography/</guid>
       <description>
 
 &lt;h1 id=&#34;it-autobiography:b8ba8b1fcf0c24f1bbf715390a897859&#34;&gt;IT-Autobiography&lt;/h1&gt;
@@ -153,10 +153,10 @@ I started my secondary school on Maris Stella and went in my third year to Immac
     
     <item>
       <title>test</title>
-      <link>localhost:1313</link>
+      <link>http://maarten-vissers.github.io/GipTaak/test/</link>
       <pubDate>Wed, 21 Oct 2015 18:56:04 +0200</pubDate>
       
-      <guid>localhost:1313</guid>
+      <guid>http://maarten-vissers.github.io/GipTaak/test/</guid>
       <description>
 
 &lt;p&gt;post&lt;/p&gt;
@@ -167,10 +167,10 @@ I started my secondary school on Maris Stella and went in my third year to Immac
     
     <item>
       <title>Giptaken</title>
-      <link>localhost:1313</link>
+      <link>http://maarten-vissers.github.io/Giptaken/</link>
       <pubDate>Tue, 20 Oct 2015 21:36:06 +0200</pubDate>
       
-      <guid>localhost:1313</guid>
+      <guid>http://maarten-vissers.github.io/Giptaken/</guid>
       <description>&lt;p&gt;qdfqdf&lt;/p&gt;
 </description>
     </item>
