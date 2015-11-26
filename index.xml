@@ -10,6 +10,20 @@
     <atom:link href="http://maarten-vissers.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>FAQ</title>
+      <link>http://maarten-vissers.github.io/GipTaak/FAQ/</link>
+      <pubDate>Wed, 21 Oct 2015 22:53:12 +0200</pubDate>
+      
+      <guid>http://maarten-vissers.github.io/GipTaak/FAQ/</guid>
+      <description>
+
+&lt;h1 id=&#34;faq:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;FAQ&lt;/h1&gt;
+
+&lt;p&gt;word aan gewerkt&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>WebsiteWorkflows</title>
       <link>http://maarten-vissers.github.io/GipTaak/websiteworkflows/</link>
       <pubDate>Wed, 21 Oct 2015 22:53:12 +0200</pubDate>
@@ -21,8 +35,7 @@
 
 &lt;p&gt;&lt;em&gt;Welkom op mijn vergelijking tussen Wordpress en GoHugo. WordPress is een online, &lt;strong&gt;open source website creation tool&lt;/strong&gt; geschreven in PHP. Hugo is een &lt;strong&gt;static site generator&lt;/strong&gt;. Dit betekent dat, in tegenstelling tot systemen zoals  WordPress, Ghost and Drupal, die op uw web server draaien elke keer hun page bouwen als een bezoeker er op klikt. Bij Hugo is het al gebouwd bij het maken van uw content en hoeft dit dus maar één keer te gebeuren.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Hugo en Wordpress lijken ergens wel op elkaar. Je maakt bij beide eerst een site, kiest een thema en maakt post. Wordpress daarentegen is stukken gemakkelijker dan Hugo. Bij WordPress doe je alles via een soort van GUI, in tegenstelling tot Hugo waar je alles met code doet. Zowel in je site als in de command prompt bij het maken van die code bv:
-:  Site maken&lt;/p&gt;
+&lt;p&gt;Hugo en Wordpress lijken ergens wel op elkaar. Je maakt bij beide eerst een site, kiest een thema en maakt post. Wordpress daarentegen is stukken gemakkelijker dan Hugo. Bij WordPress doe je alles via een soort van GUI, in tegenstelling tot Hugo waar je alles met code doet. Zowel in je site als in de command prompt bij het maken van die code b.v.: Site maken&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;&amp;gt;hugo new site GipSite
 &lt;/code&gt;&lt;/pre&gt;
@@ -112,21 +125,99 @@ Ik geef ze dezelfde opmaak, dus maak ik gebruik van een _default map met maar é
 
 &lt;p&gt;De configuratie gebeurt hier. Gegevens van uw site, uw account of beschrijvingen, namen van knoppen en dergelijke, die geef je hier mee!&lt;/p&gt;
 
+&lt;p&gt;&lt;em&gt;De config en de layout samen doen werken vond ik zeer moeilijk. Ook een tweede thema in de site mengen was geen gemakkelijke opdracht, maar ze zijn wel gelukt!&lt;/em&gt;
+el op elkaar. Je maakt bij beide eerst een site, kiest een thema en maakt post. Wordpress daarentegen is stukken gemakkelijker dan Hugo. Bij WordPress doe je alles via een soort van GUI, in tegenstelling tot Hugo waar je alles met code doet. Zowel in je site als in de command prompt bij het maken van die code bv:
+:  Site maken&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;gt;hugo new site GipSite
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;: Test.md bestand maken in de map &amp;ldquo;post&amp;rdquo;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;gt;hugo new post\test.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Zelf vind ik Hugo het meest interessante, het is meer IT-gerelateerd. In het begin is het heel moeilijk, je moet ergens aan beginnen waar je niets van weet. Uiteindelijk is iedereen er wel in geslaagd door middel van zelfstudie en hulp van vrienden er te geraken. Dat is wat wij later ook zullen moeten doen, want dan is er geen leeraar die ons helpt. De eerste weken heb ik problemen gehad met Hugo omdat ik vaak te moeilijke thema&amp;rsquo;s had, maar het is net daardoor dat ik het nu snap. Ik snap nu bijvoorbeeld hoe de content verbonden is met de single.html, deze zorgt namelijk voor de opmaak van de content. Ik weet ook veel meer over partials. Iets waar ik voor Hugo bijna niets van wist, ken ik nu heel goed.&lt;/p&gt;
+
+&lt;p&gt;Bij Hugo begin je met een site te maken en vervolgens een thema te kiezen. De moeilijkste stap is het thema configuren en alle instelling in de config.toml te doen werken. Vervolgens kan je beginnen met post, zoals de code hierboven, deze kan je dan bewerken met behulp van lay-outs en dergelijke. In WordPress is het heel gemakkelijk. Je hoeft enkel te klikken op: &amp;ldquo;nieuwe site maken&amp;rdquo; of &amp;ldquo;nieuwe post maken&amp;rdquo; en je krijgt een scherm waar alles duidelijk is.&lt;/p&gt;
+
+&lt;h2 id=&#34;kleine-vergelijking-1:4c5f97108e25a5064c4e6f6158ee7471&#34;&gt;Kleine vergelijking&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Aspecten&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Wordpress&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Hugo&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Moeilijkheidsgraad&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Gemakkelijk&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Gevorderd&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Op elke pc bereikbaar&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Ja&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Ja&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Git&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Nee&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Ja&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Snel&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Ja&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Nee&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Bouwen (build)&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Klik op pagina&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Eenmalig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;De Hugo site wordt gehost door github pages. In deze directory wordt je public map van hugo geplaatst.&lt;/p&gt;
+
+&lt;h1 id=&#34;2-directory-structuur-1:4c5f97108e25a5064c4e6f6158ee7471&#34;&gt;2) Directory-Structuur&lt;/h1&gt;
+
+&lt;h2 id=&#34;mijn-hugo-mappen-en-bestanden-1:4c5f97108e25a5064c4e6f6158ee7471&#34;&gt;Mijn Hugo mappen en bestanden&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Content&lt;/li&gt;
+&lt;li&gt;Layouts&lt;/li&gt;
+&lt;li&gt;Static&lt;/li&gt;
+&lt;li&gt;Config.toml&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Alles komt van verchillende thema&amp;rsquo;s buiten content, die heb ik zelf geschreven.Vervolgens een woordje uitleg.&lt;/p&gt;
+
+&lt;h2 id=&#34;content-1:4c5f97108e25a5064c4e6f6158ee7471&#34;&gt;Content&lt;/h2&gt;
+
+&lt;p&gt;In de content staan jouw markdown (.md) bestanden, bv. giptaken. Hier schrijf je markdown code die later in de layouts wordt omgezet in html. Wat ik ga doen is hier twee mappen maken: giptaken en stageverslagen.&lt;/p&gt;
+
+&lt;h2 id=&#34;layouts-1:4c5f97108e25a5064c4e6f6158ee7471&#34;&gt;Layouts&lt;/h2&gt;
+
+&lt;p&gt;Hier worden je markdown bestanden omgezet naar html-bestanden, zoals voordien vermeld. Zoal ik al zei ging ik twee mappen maken, dat wilt dus zeggen dat ik bij layouts eventueel ook twee dezelfde mappen kan maken en ze allebei een andere opmaak geven door middel van de single.
+Ik geef ze dezelfde opmaak, dus maak ik gebruik van een _default map met maar één single in. Bij layouts kan je ook de thema&amp;rsquo; mixen door er partials van andere thema&amp;rsquo;s aan toe te voegen.&lt;/p&gt;
+
+&lt;h2 id=&#34;static-1:4c5f97108e25a5064c4e6f6158ee7471&#34;&gt;Static&lt;/h2&gt;
+
+&lt;p&gt;Css, fonts, images, javascript&amp;hellip;? Dat behoort hier! Vergeet niet bij het mixen van de thema&amp;rsquo;s ook de css en dergelijke van het andere thema hier te plaatsen!&lt;/p&gt;
+
+&lt;h2 id=&#34;config-toml-1:4c5f97108e25a5064c4e6f6158ee7471&#34;&gt;Config.toml&lt;/h2&gt;
+
+&lt;p&gt;De configuratie gebeurt hier. Gegevens van uw site, uw account of beschrijvingen, namen van knoppen en dergelijke, die geef je hier mee!&lt;/p&gt;
+
 &lt;p&gt;&lt;em&gt;De config en de layout samen doen werken vond ik zeer moeilijk. Ook een tweede thema in de site mengen was geen gemakkelijke opdracht, maar ze zijn wel gelukt!&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>FAQ</title>
-      <link>http://maarten-vissers.github.io/GipTaak/FAQ/</link>
-      <pubDate>Wed, 21 Oct 2015 22:53:12 +0200</pubDate>
-      
-      <guid>http://maarten-vissers.github.io/GipTaak/FAQ/</guid>
-      <description>
-
-&lt;h1 id=&#34;faq:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;FAQ&lt;/h1&gt;
-
-&lt;p&gt;word aan gewerkt&lt;/p&gt;
 </description>
     </item>
     

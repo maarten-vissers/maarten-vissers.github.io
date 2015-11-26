@@ -24,6 +24,11 @@ hr.light {
     border-color: #fff;
 }
 
+#knop a{
+  padding-left:515px;
+
+}
+
 a {
     color: #f05f40;
     -webkit-transition: all .35s;
