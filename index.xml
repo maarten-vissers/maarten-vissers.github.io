@@ -90,17 +90,6 @@
     </item>
     
     <item>
-      <title>FAQ</title>
-      <link>/maarten-vissers.github.io/GipTaak/FAQ/</link>
-      <pubDate>Wed, 21 Oct 2015 22:53:12 +0200</pubDate>
-      
-      <guid>/maarten-vissers.github.io/GipTaak/FAQ/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/im8N4ko.png&#34; alt=&#34;alt text&#34; title=&#34;FAQ&#34; /&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>WebsiteWorkflows</title>
       <link>/maarten-vissers.github.io/GipTaak/websiteworkflows/</link>
       <pubDate>Wed, 21 Oct 2015 22:53:12 +0200</pubDate>
@@ -203,6 +192,17 @@ Ik geef ze dezelfde opmaak, dus maak ik gebruik van een _default map met maar é
 &lt;p&gt;De configuratie gebeurt hier. Gegevens van uw site, uw account of beschrijvingen, namen van knoppen en dergelijke, die geef je hier mee!&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;De config en de layout samen doen werken vond ik zeer moeilijk. Ook een tweede thema in de site mengen was geen gemakkelijke opdracht, maar ze zijn wel gelukt!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>/maarten-vissers.github.io/GipTaak/FAQ/</link>
+      <pubDate>Wed, 21 Oct 2015 22:53:12 +0200</pubDate>
+      
+      <guid>/maarten-vissers.github.io/GipTaak/FAQ/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/im8N4ko.png&#34; alt=&#34;alt text&#34; title=&#34;FAQ&#34; /&gt;
+&lt;/p&gt;
 </description>
     </item>
     
