@@ -66,7 +66,11 @@ p {
 }
 
 .bg-primary {
-    background-color: #f05f40;
+        background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(red, blue); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(red, blue); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(red, blue); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#f05f40, #ff9900); /* Standard syntax */
 }
 
 .bg-dark {
@@ -192,7 +196,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/back.jpg);
+    background-image: url(../img/wood2.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;

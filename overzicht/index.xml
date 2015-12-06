@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overzichts on GIP 2015-2016</title>
+    <link>http://maarten.vissers.github.io/overzicht/</link>
+    <description>Recent content in Overzichts on GIP 2015-2016</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Dec 2015 14:14:07 +0100</lastBuildDate>
+    <atom:link href="http://maarten.vissers.github.io/overzicht/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Overzicht van de giptaken</title>
+      <link>http://maarten.vissers.github.io/overzicht/giptaken/</link>
+      <pubDate>Sun, 06 Dec 2015 14:14:07 +0100</pubDate>
+      
+      <guid>http://maarten.vissers.github.io/overzicht/giptaken/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
