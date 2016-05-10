@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GIP Maarten Vissers</title>
-    <link>http://localhost:1313/</link>
+    <link>http://maarten-vissers.github.io/</link>
     <description>Recent content on GIP Maarten Vissers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Dec 2015 15:17:09 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://maarten-vissers.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Teksten - Welkomstwoord</title>
-      <link>http://localhost:1313/work/proj-4/</link>
+      <link>http://maarten-vissers.github.io/work/proj-4/</link>
       <pubDate>Sun, 06 Dec 2015 15:17:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/work/proj-4/</guid>
+      <guid>http://maarten-vissers.github.io/work/proj-4/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Beste lezer,&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Eerst en vooral wil ik u verwelkomen op mijn website! Ik ben Maarten Vissers, een zeventienjarige student aan het Immaculata Instituut te Oostmalle. Ik woon in Sint-Antonius en wat me vooral bezig houdt is fitness en Chiro. Ik ben begonnen in Maris Stella, maar al snel wist ik dat ik iets met computers wilde doen.&lt;/p&gt;
@@ -31,40 +31,23 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-1/</link>
+      <link>http://maarten-vissers.github.io/work/proj-11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/proj-1/</guid>
-      <description>
+      <guid>http://maarten-vissers.github.io/work/proj-11/</guid>
+      <description>&lt;p&gt;Vous voulez voir des photo concernant le stage? Cliquez &lt;a href=&#34;https://prezi.com/fubydafrjcs7/gip/&#34;&gt;ici&lt;/a&gt;!&lt;/p&gt;
 
-&lt;h3 id=&#34;wil-jij-weten-hoe-kahoot-werkt-bekijk-deze-video-en-word-een-kahoot-master:65b2f0309777feb2ce81b862f1116292&#34;&gt;Wil jij weten hoe Kahoot werkt? Bekijk deze video en word een Kahoot master!&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://youtu.be/S7AEDx58VIc?t=154s&#34; title=&#34;Kahoot Instructiefilmpje&#34;&gt;&lt;img src=&#34;http://i.imgur.com/uQaeuRQ.png&#34; alt=&#34;Kahoot Instructiefilmpje&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img/work/proj-11/img1.jpg&#34; alt=&#34;reportage&#34; /&gt;
+&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-2/</link>
+      <link>http://maarten-vissers.github.io/work/proj-10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/proj-2/</guid>
-      <description>
-
-&lt;h3 id=&#34;do-you-want-to-know-how-kahoot-works-watch-this-video-and-become-a-kahoot-master:6ea243d84e2642e116a25f28045ce15f&#34;&gt;Do you want to know how Kahoot works? Watch this video and become a Kahoot-master.&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://youtu.be/pjFtuMjKIIA?t=35s&#34; title=&#34;Kahoot IT-Tapa Instruction Video&#34;&gt;&lt;img src=&#34;http://i.imgur.com/pdGt93S.png&#34; alt=&#34;Kahoot IT-Tapa Instruction Video&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/work/proj-10/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/work/proj-10/</guid>
+      <guid>http://maarten-vissers.github.io/work/proj-10/</guid>
       <description>
 
 &lt;h3 id=&#34;wilt-u-wat-meer-te-weten-komen-over-de-uitblinker-op-gebied-van-it-op-mijn-stagebedrijf-lees-zeker-verder:4776109502fef87aa7ba3bd640800151&#34;&gt;Wilt u wat meer te weten komen over de uitblinker op gebied van IT op mijn stagebedrijf? Lees zeker verder!&lt;/h3&gt;
@@ -87,23 +70,25 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-11/</link>
+      <link>http://maarten-vissers.github.io/work/proj-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/proj-11/</guid>
-      <description>&lt;p&gt;Vous voulez voir des photo concernant le stage? Cliquez &lt;a href=&#34;https://prezi.com/fubydafrjcs7/gip/&#34;&gt;ici&lt;/a&gt;!&lt;/p&gt;
+      <guid>http://maarten-vissers.github.io/work/proj-2/</guid>
+      <description>
 
-&lt;p&gt;&lt;img src=&#34;img/work/proj-11/img1.jpg&#34; alt=&#34;reportage&#34; /&gt;
-&lt;/p&gt;
+&lt;h3 id=&#34;do-you-want-to-know-how-kahoot-works-watch-this-video-and-become-a-kahoot-master:6ea243d84e2642e116a25f28045ce15f&#34;&gt;Do you want to know how Kahoot works? Watch this video and become a Kahoot-master.&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/pjFtuMjKIIA?t=35s&#34; title=&#34;Kahoot IT-Tapa Instruction Video&#34;&gt;&lt;img src=&#34;http://i.imgur.com/pdGt93S.png&#34; alt=&#34;Kahoot IT-Tapa Instruction Video&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-12/</link>
+      <link>http://maarten-vissers.github.io/work/proj-12/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/proj-12/</guid>
+      <guid>http://maarten-vissers.github.io/work/proj-12/</guid>
       <description>
 
 &lt;h2 id=&#34;utm:5c67cbb8d1315feed1e1237d83ba739a&#34;&gt;UTM&lt;/h2&gt;
@@ -126,10 +111,25 @@ spam that is not blocked, the ICT Coordinator is the one who is going to take ca
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-3/</link>
+      <link>http://maarten-vissers.github.io/work/proj-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/proj-3/</guid>
+      <guid>http://maarten-vissers.github.io/work/proj-1/</guid>
+      <description>
+
+&lt;h3 id=&#34;wil-jij-weten-hoe-kahoot-werkt-bekijk-deze-video-en-word-een-kahoot-master:65b2f0309777feb2ce81b862f1116292&#34;&gt;Wil jij weten hoe Kahoot werkt? Bekijk deze video en word een Kahoot master!&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/S7AEDx58VIc?t=154s&#34; title=&#34;Kahoot Instructiefilmpje&#34;&gt;&lt;img src=&#34;http://i.imgur.com/uQaeuRQ.png&#34; alt=&#34;Kahoot Instructiefilmpje&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://maarten-vissers.github.io/work/proj-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maarten-vissers.github.io/work/proj-3/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;img/work/proj-3/img1.jpg&#34; alt=&#34;Crispy Icons&#34; /&gt;
@@ -159,27 +159,10 @@ spam that is not blocked, the ICT Coordinator is the one who is going to take ca
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-8/</link>
+      <link>http://maarten-vissers.github.io/work/proj-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/proj-8/</guid>
-      <description>
-
-&lt;h3 id=&#34;wat-meer-te-weten-komen-over-het-uiterlijk-van-mijn-stageplaats-vergeet-niet-onderstaande-taak-door-te-nemen:e641d61060343f14ea634961cc91cbfe&#34;&gt;Wat meer te weten komen over het uiterlijk van mijn stageplaats? Vergeet niet onderstaande taak door te nemen!&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/work/proj-8/img1.jpg&#34; alt=&#34;analyse&#34; /&gt;
-
-&lt;img src=&#34;img/work/proj-8/img2.jpg&#34; alt=&#34;analyse&#34; /&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/work/proj-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/work/proj-5/</guid>
+      <guid>http://maarten-vissers.github.io/work/proj-5/</guid>
       <description>
 
 &lt;h3 id=&#34;bekijk-hieronder-mijn-vergelijking-tussen-wordpress-en-hugo-en-vergeet-zeker-de-structuur-van-hugo-niet-te-bezien:1eae9375fe89232587f9c3dbde50572b&#34;&gt;Bekijk hieronder mijn vergelijking tussen Wordpress en Hugo en vergeet zeker de structuur van Hugo niet te bezien!&lt;/h3&gt;
@@ -284,10 +267,27 @@ Ik geef ze dezelfde opmaak, dus maak ik gebruik van een _default map met maar é
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-6/</link>
+      <link>http://maarten-vissers.github.io/work/proj-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/proj-6/</guid>
+      <guid>http://maarten-vissers.github.io/work/proj-8/</guid>
+      <description>
+
+&lt;h3 id=&#34;wat-meer-te-weten-komen-over-het-uiterlijk-van-mijn-stageplaats-vergeet-niet-onderstaande-taak-door-te-nemen:e641d61060343f14ea634961cc91cbfe&#34;&gt;Wat meer te weten komen over het uiterlijk van mijn stageplaats? Vergeet niet onderstaande taak door te nemen!&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/work/proj-8/img1.jpg&#34; alt=&#34;analyse&#34; /&gt;
+
+&lt;img src=&#34;img/work/proj-8/img2.jpg&#34; alt=&#34;analyse&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://maarten-vissers.github.io/work/proj-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maarten-vissers.github.io/work/proj-6/</guid>
       <description>
 
 &lt;h3 id=&#34;faq-au-sujet-de-kahoot:7564a0a8c01447d9ac7be687dc2b3e8c&#34;&gt;FAQ au sujet de Kahoot!&lt;/h3&gt;
@@ -299,10 +299,10 @@ Ik geef ze dezelfde opmaak, dus maak ik gebruik van een _default map met maar é
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-7/</link>
+      <link>http://maarten-vissers.github.io/work/proj-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/proj-7/</guid>
+      <guid>http://maarten-vissers.github.io/work/proj-7/</guid>
       <description>
 
 &lt;h3 id=&#34;intresse-in-mijn-leven-als-een-informaticus-hoe-het-allemaal-begon-en-wat-ik-in-de-toekomst-wil-doen-vindt-u-hieronder:71424a5d999d659b89b1de200343e57e&#34;&gt;Intresse in mijn leven als een informaticus? Hoe het allemaal begon en wat ik in de toekomst wil doen, vindt u hieronder.&lt;/h3&gt;
@@ -325,10 +325,10 @@ I started my secondary school on Maris Stella and went in my third year to Immac
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-9/</link>
+      <link>http://maarten-vissers.github.io/work/proj-9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/work/proj-9/</guid>
+      <guid>http://maarten-vissers.github.io/work/proj-9/</guid>
       <description>
 
 &lt;h3 id=&#34;ook-zoveel-interesse-in-voetbal-voer-deze-code-uit-in-mysqlworkbench-en-stem-op-jouw-favoriete-club:2901509bac9ccf6640212ac11f572262&#34;&gt;Ook zoveel interesse in voetbal? Voer deze code uit in mySqlWorkbench en stem op jouw favoriete club!&lt;/h3&gt;
