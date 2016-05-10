@@ -46,19 +46,6 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-11/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/work/proj-11/</guid>
-      <description>&lt;p&gt;Vous voulez voir des photo concernant le stage? Cliquez &lt;a href=&#34;https://prezi.com/fubydafrjcs7/gip/&#34;&gt;ici&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/work/proj-11/img1.jpg&#34; alt=&#34;reportage&#34; /&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://localhost:1313/work/proj-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -69,32 +56,6 @@
 
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/pjFtuMjKIIA?t=35s&#34; title=&#34;Kahoot IT-Tapa Instruction Video&#34;&gt;&lt;img src=&#34;http://i.imgur.com/pdGt93S.png&#34; alt=&#34;Kahoot IT-Tapa Instruction Video&#34; /&gt;
 &lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/work/proj-12/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/work/proj-12/</guid>
-      <description>
-
-&lt;h2 id=&#34;utm:5c67cbb8d1315feed1e1237d83ba739a&#34;&gt;UTM&lt;/h2&gt;
-
-&lt;p&gt;I am going to tell you something more about Unified Threat Management or UTM. The most important goal about this device: security. It is an all-in-one based on security/protection. Normally you buy everything separately (antivirus, malware protection&amp;hellip;). This could possibly be better if you have a small company, because it is cheaper. Unified Threat Management is used in the town hall of Zoersel because it is the most effective security device made for them. The ICT Coordinator manages the device. He checks that everything is going fine and if something goes wrong, for example
-spam that is not blocked, the ICT Coordinator is the one who is going to take care of that.&lt;/p&gt;
-
-&lt;p&gt;UTM is, like I said, an all-in-one based on the security of a network, it contains things like: firewall, VPN, anti-spam, intrusion prevention, content filtering, antivirus, anti-malware and a lot more things. There are a lot of providers for an UTM device (all with their own managing tool): Sophos, Panda, SonicWALL, Juniper, Cisco, McAfee&amp;hellip; Zoersel uses Sophos, because this is in general the fastest provider.&lt;/p&gt;
-
-&lt;p&gt;UTM can be bought in all kinds of formats:&lt;br /&gt;
-&lt;em&gt;small: about 40 users,&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;medium: about 150 users,&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;big: + 150 users.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;In Zoersel they originally started by buying all kinds of software/devices separately, but the town hall got bigger and the UTM was the best solution to take care of everything. One big advantage is that it is very cheap if you have a big company, that is the main reason why Zoersel has a UTM at the moment. There are a lot of other advantages, it is faster and less difficult. What I like is that everything is inside one software tool and that has a lot of assets based on collaboration and management. UTM also has a few disadvantages. The worst thing about the tool is if it turns off, there is no network security anymore, but Zoersel is prepared for that: High Availability mode. This means that a second device is placed below the first device and the second device takes care of everything if the first device is turned off. But the second device is also active when the first device is updating for example. There is another minus: it is possible that your network slows down. The reason is simple: all the data has to come through the UTM-device. The faster you want your network to be, the more you are going to pay for it.&lt;/p&gt;
-
-&lt;p&gt;The price is based on how fast your network has to be. You can also divide all data over two UTM devices, that is going to be twice as fast. If you do that, the price is going to be a lot more expensive because you have to buy a license for both of the devices. The faster you want your network to be, the more you are going to pay for that. I rate it a &lt;sup&gt;9&lt;/sup&gt;&amp;frasl;&lt;sub&gt;10&lt;/sub&gt; and  I would recommend it because it is a very good tool based on protection, it is also very easy to use.&lt;/p&gt;
 </description>
     </item>
     
@@ -121,6 +82,45 @@ spam that is not blocked, the ICT Coordinator is the one who is going to take ca
 - Soms traag door te veel data&lt;/p&gt;
 
 &lt;p&gt;Zelf vind ik het een enorm goede tool omdat alles gebonden is in 1 programma. Ik zou het als IT beheerder zeker gebruiken, omdat dit alles enorm vergemakkelijkt. Het is minder complex, handig en goedkoper. Wat wil je nog meer?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/work/proj-11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/work/proj-11/</guid>
+      <description>&lt;p&gt;Vous voulez voir des photo concernant le stage? Cliquez &lt;a href=&#34;https://prezi.com/fubydafrjcs7/gip/&#34;&gt;ici&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/work/proj-11/img1.jpg&#34; alt=&#34;reportage&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/work/proj-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/work/proj-12/</guid>
+      <description>
+
+&lt;h2 id=&#34;utm:5c67cbb8d1315feed1e1237d83ba739a&#34;&gt;UTM&lt;/h2&gt;
+
+&lt;p&gt;I am going to tell you something more about Unified Threat Management or UTM. The most important goal about this device: security. It is an all-in-one based on security/protection. Normally you buy everything separately (antivirus, malware protection&amp;hellip;). This could possibly be better if you have a small company, because it is cheaper. Unified Threat Management is used in the town hall of Zoersel because it is the most effective security device made for them. The ICT Coordinator manages the device. He checks that everything is going fine and if something goes wrong, for example
+spam that is not blocked, the ICT Coordinator is the one who is going to take care of that.&lt;/p&gt;
+
+&lt;p&gt;UTM is, like I said, an all-in-one based on the security of a network, it contains things like: firewall, VPN, anti-spam, intrusion prevention, content filtering, antivirus, anti-malware and a lot more things. There are a lot of providers for an UTM device (all with their own managing tool): Sophos, Panda, SonicWALL, Juniper, Cisco, McAfee&amp;hellip; Zoersel uses Sophos, because this is in general the fastest provider.&lt;/p&gt;
+
+&lt;p&gt;UTM can be bought in all kinds of formats:&lt;br /&gt;
+&lt;em&gt;small: about 40 users,&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;medium: about 150 users,&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;big: + 150 users.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In Zoersel they originally started by buying all kinds of software/devices separately, but the town hall got bigger and the UTM was the best solution to take care of everything. One big advantage is that it is very cheap if you have a big company, that is the main reason why Zoersel has a UTM at the moment. There are a lot of other advantages, it is faster and less difficult. What I like is that everything is inside one software tool and that has a lot of assets based on collaboration and management. UTM also has a few disadvantages. The worst thing about the tool is if it turns off, there is no network security anymore, but Zoersel is prepared for that: High Availability mode. This means that a second device is placed below the first device and the second device takes care of everything if the first device is turned off. But the second device is also active when the first device is updating for example. There is another minus: it is possible that your network slows down. The reason is simple: all the data has to come through the UTM-device. The faster you want your network to be, the more you are going to pay for it.&lt;/p&gt;
+
+&lt;p&gt;The price is based on how fast your network has to be. You can also divide all data over two UTM devices, that is going to be twice as fast. If you do that, the price is going to be a lot more expensive because you have to buy a license for both of the devices. The faster you want your network to be, the more you are going to pay for that. I rate it a &lt;sup&gt;9&lt;/sup&gt;&amp;frasl;&lt;sub&gt;10&lt;/sub&gt; and  I would recommend it because it is a very good tool based on protection, it is also very easy to use.&lt;/p&gt;
 </description>
     </item>
     
@@ -154,6 +154,23 @@ spam that is not blocked, the ICT Coordinator is the one who is going to take ca
 &lt;p&gt;&lt;strong&gt;Tutorial:&lt;/strong&gt; &lt;a href=&#34;https://www.youtube.com/watch?v=S7AEDx58VIc&#34; title=&#34;ITTapa&#34;&gt;IT-Tapa&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Tutorial Engels:&lt;/strong&gt; &lt;a href=&#34;https://www.youtube.com/watch?v=pjFtuMjKIIA&#34; title=&#34;ITTapa&#34;&gt;IT-Tapa&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/work/proj-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/work/proj-8/</guid>
+      <description>
+
+&lt;h3 id=&#34;wat-meer-te-weten-komen-over-het-uiterlijk-van-mijn-stageplaats-vergeet-niet-onderstaande-taak-door-te-nemen:e641d61060343f14ea634961cc91cbfe&#34;&gt;Wat meer te weten komen over het uiterlijk van mijn stageplaats? Vergeet niet onderstaande taak door te nemen!&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/work/proj-8/img1.jpg&#34; alt=&#34;analyse&#34; /&gt;
+
+&lt;img src=&#34;img/work/proj-8/img2.jpg&#34; alt=&#34;analyse&#34; /&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -267,23 +284,6 @@ Ik geef ze dezelfde opmaak, dus maak ik gebruik van een _default map met maar é
     
     <item>
       <title></title>
-      <link>http://localhost:1313/work/proj-8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/work/proj-8/</guid>
-      <description>
-
-&lt;h3 id=&#34;wat-meer-te-weten-komen-over-het-uiterlijk-van-mijn-stageplaats-vergeet-niet-onderstaande-taak-door-te-nemen:e641d61060343f14ea634961cc91cbfe&#34;&gt;Wat meer te weten komen over het uiterlijk van mijn stageplaats? Vergeet niet onderstaande taak door te nemen!&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/work/proj-8/img1.jpg&#34; alt=&#34;analyse&#34; /&gt;
-
-&lt;img src=&#34;img/work/proj-8/img2.jpg&#34; alt=&#34;analyse&#34; /&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://localhost:1313/work/proj-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -293,6 +293,32 @@ Ik geef ze dezelfde opmaak, dus maak ik gebruik van een _default map met maar é
 &lt;h3 id=&#34;faq-au-sujet-de-kahoot:7564a0a8c01447d9ac7be687dc2b3e8c&#34;&gt;FAQ au sujet de Kahoot!&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://i.imgur.com/im8N4ko.png&#34; alt=&#34;alt text&#34; title=&#34;FAQ&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/work/proj-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/work/proj-7/</guid>
+      <description>
+
+&lt;h3 id=&#34;intresse-in-mijn-leven-als-een-informaticus-hoe-het-allemaal-begon-en-wat-ik-in-de-toekomst-wil-doen-vindt-u-hieronder:71424a5d999d659b89b1de200343e57e&#34;&gt;Intresse in mijn leven als een informaticus? Hoe het allemaal begon en wat ik in de toekomst wil doen, vindt u hieronder.&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;The story of my IT life&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My name is Maarten, I am seventeen years old at the moment. Back in the days I was a proud team member of one of the greatest ‘sniperclans’ in Belgium named: TreXz. We had a great time on ‘Call of Duty: Black Ops’, but right now I am not that kind of user anymore.&lt;/p&gt;
+
+&lt;p&gt;It all began a few years ago when a friend of mine asked me to come over and play a game: Habbo Hotel. The biggest part of the game was chatting and talking to people combined with little games, but nothing special. I was fourteen years old when I played Habbo, my first online game. One year later my parents amazingly gave me a PlayStation 3 for Christmas, but I never really played with it. A few weeks later that same friend came over with Call of Duty Black Ops and we played it together for the first time and I immediately fell in love with it. I bought it myself and played a lot with it, after literary a few years of playing I joined the clan where I’ve already talked about: TreXz. After a long time I got myself interested in Anonymous, one of the most famous hack groups of all time. From that point I knew I wanted to do something with IT. Not because I wanted to be a hacker, but because I wanted to be able to understand what they actually did.&lt;/p&gt;
+
+&lt;p&gt; 
+I started my secondary school on Maris Stella and went in my third year to Immaculata. The first and biggest reason was because Immaculata is more IT related, secondly I didn’t want to learn things I am never supposed to know. Right now I’m not a big gamer anymore, the only IT-related thing I really like to do is programming. I spend most of my free time on social media: Facebook, Instagram… I have two IT courses: system management and programming. Unfortunately, I don’t really like system management. Not because of the teacher or the exercises, but I just don’t like it. Programming is my thing, I am not the best programmer, but I really like it. Building websites or making scripts are two things I really enjoy doing.&lt;/p&gt;
+
+&lt;p&gt;Being able to understand what hackers actually do, is surprisingly still the thing that interests me the most. That’s why I am going to study cyber-crime. Cyber-crime is actually fighting against hackers, but it’s only possible if you understand what they do. If I succeed, I see myself in the future as a police-officer working for the department cyber-crime. I am not sure if I want to sit behind a computer for the rest of my life, but I still have a lot of other opportunities and things I really want to do.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/work/proj-7/img1.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
 &lt;/p&gt;
 </description>
     </item>
@@ -398,32 +424,6 @@ Select  Club.name, SUM(Votes.score)&lt;br /&gt;
 From Club Join Votes&lt;br /&gt;
 On Club.id = Votes.Club_id&lt;br /&gt;
 Group by Club.id;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/work/proj-7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/work/proj-7/</guid>
-      <description>
-
-&lt;h3 id=&#34;intresse-in-mijn-leven-als-een-informaticus-hoe-het-allemaal-begon-en-wat-ik-in-de-toekomst-wil-doen-vindt-u-hieronder:71424a5d999d659b89b1de200343e57e&#34;&gt;Intresse in mijn leven als een informaticus? Hoe het allemaal begon en wat ik in de toekomst wil doen, vindt u hieronder.&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;The story of my IT life&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;My name is Maarten, I am seventeen years old at the moment. Back in the days I was a proud team member of one of the greatest ‘sniperclans’ in Belgium named: TreXz. We had a great time on ‘Call of Duty: Black Ops’, but right now I am not that kind of user anymore.&lt;/p&gt;
-
-&lt;p&gt;It all began a few years ago when a friend of mine asked me to come over and play a game: Habbo Hotel. The biggest part of the game was chatting and talking to people combined with little games, but nothing special. I was fourteen years old when I played Habbo, my first online game. One year later my parents amazingly gave me a PlayStation 3 for Christmas, but I never really played with it. A few weeks later that same friend came over with Call of Duty Black Ops and we played it together for the first time and I immediately fell in love with it. I bought it myself and played a lot with it, after literary a few years of playing I joined the clan where I’ve already talked about: TreXz. After a long time I got myself interested in Anonymous, one of the most famous hack groups of all time. From that point I knew I wanted to do something with IT. Not because I wanted to be a hacker, but because I wanted to be able to understand what they actually did.&lt;/p&gt;
-
-&lt;p&gt; 
-I started my secondary school on Maris Stella and went in my third year to Immaculata. The first and biggest reason was because Immaculata is more IT related, secondly I didn’t want to learn things I am never supposed to know. Right now I’m not a big gamer anymore, the only IT-related thing I really like to do is programming. I spend most of my free time on social media: Facebook, Instagram… I have two IT courses: system management and programming. Unfortunately, I don’t really like system management. Not because of the teacher or the exercises, but I just don’t like it. Programming is my thing, I am not the best programmer, but I really like it. Building websites or making scripts are two things I really enjoy doing.&lt;/p&gt;
-
-&lt;p&gt;Being able to understand what hackers actually do, is surprisingly still the thing that interests me the most. That’s why I am going to study cyber-crime. Cyber-crime is actually fighting against hackers, but it’s only possible if you understand what they do. If I succeed, I see myself in the future as a police-officer working for the department cyber-crime. I am not sure if I want to sit behind a computer for the rest of my life, but I still have a lot of other opportunities and things I really want to do.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/work/proj-7/img1.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
-&lt;/p&gt;
 </description>
     </item>
     
