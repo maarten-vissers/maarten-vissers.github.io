@@ -2,53 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/maarten-vissers.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2015-12-06T15:17:09+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/maarten-vissers.github.io/giptaak/Teksten/</loc>
+    <loc>http://localhost:1313/work/proj-4/</loc>
     <lastmod>2015-12-06T15:17:09+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/maarten-vissers.github.io/giptaak/IT-tapa_InstructiefilmpjeENG/</loc>
-    <lastmod>2015-12-06T15:16:50+01:00</lastmod>
+    <loc>http://localhost:1313/work/proj-1/</loc>
   </url>
   
   <url>
-    <loc>/maarten-vissers.github.io/giptaak/IT-tapa_Middagsessies/</loc>
-    <lastmod>2015-12-06T15:16:36+01:00</lastmod>
+    <loc>http://localhost:1313/work/proj-11/</loc>
   </url>
   
   <url>
-    <loc>/maarten-vissers.github.io/giptaak/IT-tapa_Instructiefilmpje/</loc>
-    <lastmod>2015-12-06T15:16:15+01:00</lastmod>
+    <loc>http://localhost:1313/work/proj-2/</loc>
   </url>
   
   <url>
-    <loc>/maarten-vissers.github.io/overzicht/giptaken/</loc>
-    <lastmod>2015-12-06T14:14:07+01:00</lastmod>
+    <loc>http://localhost:1313/work/proj-12/</loc>
   </url>
   
   <url>
-    <loc>/maarten-vissers.github.io/giptaak/FAQ/</loc>
-    <lastmod>2015-10-21T22:53:12+02:00</lastmod>
+    <loc>http://localhost:1313/work/proj-10/</loc>
   </url>
   
   <url>
-    <loc>/maarten-vissers.github.io/giptaak/websiteworkflows/</loc>
-    <lastmod>2015-10-21T22:53:12+02:00</lastmod>
+    <loc>http://localhost:1313/work/proj-3/</loc>
   </url>
   
   <url>
-    <loc>/maarten-vissers.github.io/giptaak/IT-autobiography/</loc>
-    <lastmod>2015-10-21T22:35:01+02:00</lastmod>
+    <loc>http://localhost:1313/work/proj-5/</loc>
   </url>
   
   <url>
-    <loc>/maarten-vissers.github.io/giptaak/</loc>
+    <loc>http://localhost:1313/work/proj-8/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/proj-6/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/proj-9/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/proj-7/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,96 @@
+
+
+<h3 id="ook-zoveel-interesse-in-voetbal-voer-deze-code-uit-in-mysqlworkbench-en-stem-op-jouw-favoriete-club:2901509bac9ccf6640212ac11f572262">Ook zoveel interesse in voetbal? Voer deze code uit in mySqlWorkbench en stem op jouw favoriete club!</h3>
+
+<p><strong>Maak je database en stel het in als standaarddatabase</strong><br />
+create schema gip_taak_08_VissersMaarten;<br />
+use gip_taak_08_VissersMaarten;</p>
+
+<p><strong>Maak de tabel Users</strong><br />
+create table User(<br />
+    id int not null auto_increment primary key,<br />
+    name text not null,<br />
+    functie text not null,<br />
+    email text not null,<br />
+    password text not null<br />
+    );</p>
+
+<p><strong>Maak de tabel Users</strong><br />
+create table Votes(<br />
+    id int not null auto_increment primary key,<br />
+    user_id int not null,<br />
+    club_id int not null,<br />
+    score int not null<br />
+    );</p>
+
+<p><strong>Maak de tabel Club</strong><br />
+create table Club(<br />
+    id int not null auto_increment primary key,<br />
+    name text not null,<br />
+    logo text not null<br />
+    );</p>
+
+<p><strong>Maak de tabel Chatbericht</strong><br />
+create table Chatbericht(<br />
+    id int not null auto_increment primary key,<br />
+    user_id int not null,<br />
+    bericht text not null,<br />
+    tijdstip datetime not null<br />
+    );</p>
+
+<p><strong>Voeg dingen toe aan Chatbericht</strong><br />
+insert into Chatbericht (id, user_id, bericht, tijdstip)<br />
+VALUES<br />
+(1, 3, &ldquo;Hallo gasten&rdquo;, &lsquo;2016-04-19 13:23:44&rsquo;),<br />
+(2, 1, &ldquo;Jo Mannen&rdquo;, &lsquo;2016-04-19 12:13:45&rsquo;),<br />
+(3, 2, &ldquo;Manne zwegt ik zijn naar de shot aan het zien&rdquo;, &lsquo;2016-04-19 14:28:44&rsquo;),<br />
+(4, 3, &ldquo;GODVERDOMME TOKKELIER DAS NA ELKE MATCH HETZELFDE HIEEEEEEE, GISTER WAST OEK AL ZOW&rdquo;, &lsquo;2016-04-20 05:05:05&rsquo;);</p>
+
+<p><strong>Voeg dingen toe aan User</strong><br />
+insert into User (id, name, functie, email, password)<br />
+values<br />
+(1, &ldquo;MaartenRAFC&rdquo;, &ldquo;Admin&rdquo;, &ldquo;maarten.rafc@hotmail.com&rdquo;, &ldquo;rafc1180&rdquo;),<br />
+(2, &ldquo;TokkeLier&rdquo;, &ldquo;Voter&rdquo;, &ldquo;tokkeLIER@lierse.be&rdquo;, &ldquo;liersetillidie&rdquo;),<br />
+(3, &ldquo;Ricardientje&rdquo;, &ldquo;Voter&rdquo;, &ldquo;ricardinoAXEL@axelislove.be&rdquo;, &ldquo;axeltjexxx&rdquo;);</p>
+
+<p><strong>Voeg dingen toe aan Votes</strong><br />
+insert into Votes(id, user_id, club_id, score)<br />
+values<br />
+(1, 1, 1, 3),<br />
+(2, 1, 2, 2),<br />
+(3, 1, 3, 1),<br />
+(4, 2, 2, 3),<br />
+(5, 2, 1, 2),<br />
+(6, 2, 3, 1),<br />
+(7, 3, 1, 3),<br />
+(8, 3, 3, 2),<br />
+(9, 3, 2, 1);</p>
+
+<p><strong>Voeg dingen toe aan Club</strong><br />
+insert into Club(id, name, logo)<br />
+values<br />
+(1, &ldquo;R Antwerp FC&rdquo;, &ldquo;test&rdquo;),<br />
+(2, &ldquo;Lierse&rdquo;, &ldquo;test&rdquo;),<br />
+(3, &ldquo;KV Mechelen&rdquo;, &ldquo;test&rdquo;);</p>
+
+<p><strong>TESTS</strong></p>
+
+<p><strong>Toont de scores van Users</strong><br />
+SELECT Votes.id, user.name, Club.name, Votes.score<br />
+FROM Votes JOIN User<br />
+ON Votes.user_id = User.id<br />
+JOIN Club<br />
+ON Votes.club_id = Club.id;</p>
+
+<p><strong>De chat</strong><br />
+SELECT User.name, User.functie, Chatbericht.bericht, Chatbericht.tijdstip<br />
+FROM Chatbericht JOIN User<br />
+ON Chatbericht.user_id = User.id<br />
+ORDER BY Chatbericht.tijdstip;</p>
+
+<p><strong>Score per club</strong><br />
+Select  Club.name, SUM(Votes.score)<br />
+From Club Join Votes<br />
+On Club.id = Votes.Club_id<br />
+Group by Club.id;</p>
+
