@@ -1,0 +1,53 @@
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="Css/style.css">
+   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"></script>
+   <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<title>Driehoek van Pascal</title>
+
+
+</head>
+
+<body background="Afbeeldingen/background.jpg">
+<a href="../index.html" style="margin-top:2%; margin-left:2%" class="btn btn-primary">Back</a>
+  <div class="gradient"></div>
+  <div class="demo">
+
+    <div id="eerst" class="logo"><p>Welkom</p> </div>
+          <div class="logo"><p>Aanschouw de driehoek van Pascal.</p></div>
+  </div>
+  
+
+ <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
+<script src="Javascript/main.js"></script>
+<script src="Javascript/driehoek.js"></script>
+ <div class="input">
+    Rijen <select id="rij" name="rij">
+	<script>
+	for(var i = 2; i < 12; i++){
+	x = i - 1;
+	document.write('<option value="'+ i +'">'+ x +'</option>');
+	}
+
+	</script>
+	</select>
+  <input type="button" value="Driehoek maken" onclick="setP()" />
+
+	<p id="demo"></p>
+
+     <div class="allBox">
+
+
+     </div>
+
+</div>
+<div id="box1"></div>
+</body>
+</html>

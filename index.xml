@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIP Maarten Vissers</title>
+    <link>http://maarten-vissers.github.io/</link>
+    <description>Recent content on GIP Maarten Vissers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Dec 2015 15:17:09 +0100</lastBuildDate>
+    <atom:link href="http://maarten-vissers.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Teksten - Welkomstwoord</title>
+      <link>http://maarten-vissers.github.io/work/proj-4/</link>
+      <pubDate>Sun, 06 Dec 2015 15:17:09 +0100</pubDate>
+      
+      <guid>http://maarten-vissers.github.io/work/proj-4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Beste lezer,&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Eerst en vooral wil ik u verwelkomen op mijn website! Ik ben Maarten Vissers, een zeventienjarige student aan het Immaculata Instituut te Oostmalle. Ik woon in Sint-Antonius en wat me vooral bezig houdt is fitness en Chiro. Ik ben begonnen in Maris Stella, maar al snel wist ik dat ik iets met computers wilde doen.&lt;/p&gt;
+
+&lt;p&gt;Net zoals alle andere leerlingen uit mijn klas kreeg ik de opdracht om een website te maken voor mijn GIP. Ik heb mijn website gemaakt aan de hand van Gohugo, om het in het Engels te zeggen: &amp;lsquo;a static site generator&amp;rsquo;.  In het begin vond ik Gohugo enorm complex en ingewikkeld, maar naarmate het oefenen begon ik meer te begrijpen. Het nut van Gohugo is eigenlijk het automatisch genereren van een simpel markdown-bestand naar een html-bestand. Om het even uit te leggen: je maakt een tekst in markdown en kent deze toe aan een thema. Gohugo verwerkt deze tekst automatisch in het thema en je hoeft niets aan de html aan te passen. Dit maakt het in de toekomst enorm gemakkelijk. Je hoeft enkel de teksten te schrijven en te laten genereren, niet meer of niet minder.&lt;/p&gt;
+
+&lt;p&gt;Mijn bedoeling was om van mijn site een soort presentatie te maken, aangezien ik deze moet voorstellen aan een jury. Door dit te doen, toont het uiterlijk van mijn site erg professioneel en dat is tenslotte waar de meeste mensen hun eerste indruk op baseren. Het minpunt voor sommigen is dat de site niet super gebruiksvriendelijk is, maar zoals ze zeggen: &amp;lsquo;Wie mooi wil zijn, moet lijden&amp;rsquo;. Mijn voorkeur ging in dit geval naar het uiterlijk, in plaats van naar de gebruiksvriendelijkheid.&lt;/p&gt;
+
+&lt;p&gt;Het laatste puntje is mijn toekomst. Eerst en vooral zal ik proberen om dit jaar met succes af te sluiten en vervolgens zal ik een grote twee maanden genieten van mijn vakantie. Na deze vakantie ga ik studeren op de KDG als student Toegepaste Informatica. Deze opleiding zal ongeveer drie jaar in beslag nemen, maar hierna ben ik nog niet van plan om te stoppen. Wat ik zeker weet is dat ik een specialisatiejaar Cybercrime wil doen. Dit alles om later te eindigen bij de afdeling Cybercrime van de Politie Noorderkempen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Veel leesplezier!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://maarten-vissers.github.io/work/proj-11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maarten-vissers.github.io/work/proj-11/</guid>
+      <description>&lt;p&gt;Vous voulez voir des photo concernant le stage? Cliquez &lt;a href=&#34;https://prezi.com/fubydafrjcs7/gip/&#34;&gt;ici&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/work/proj-11/img1.jpg&#34; alt=&#34;reportage&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://maarten-vissers.github.io/work/proj-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maarten-vissers.github.io/work/proj-10/</guid>
+      <description>
+
+&lt;h3 id=&#34;wilt-u-wat-meer-te-weten-komen-over-de-uitblinker-op-gebied-van-it-op-mijn-stagebedrijf-lees-zeker-verder:4776109502fef87aa7ba3bd640800151&#34;&gt;Wilt u wat meer te weten komen over de uitblinker op gebied van IT op mijn stagebedrijf? Lees zeker verder!&lt;/h3&gt;
+
+&lt;p&gt;Sophos UTM (Unified Threat Management) biedt u complete beveiliging vanaf de netwerk-firewall tot een endpoint antivirusoplossing in een enkel apparaat. Het vereenvoudigt uw IT-beveiliging zonder de complexiteit van multiple-point-oplossingen. Rules of regels instellen voor een firewall is makkelijker dan ooit te voren met Sophos UTM.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Voordelen:&lt;/strong&gt;&lt;br /&gt;
+- Goedkoop&lt;br /&gt;
+- Sneller&lt;br /&gt;
+- Minder complex, gemakkelijker&lt;br /&gt;
+- Gemakkelijke samenwerking/beheer&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nadelen:&lt;/strong&gt;&lt;br /&gt;
+- Als systeem crasht, valt alles weg van beveiliging&lt;br /&gt;
+- Soms traag door te veel data&lt;/p&gt;
+
+&lt;p&gt;Zelf vind ik het een enorm goede tool omdat alles gebonden is in 1 programma. Ik zou het als IT beheerder zeker gebruiken, omdat dit alles enorm vergemakkelijkt. Het is minder complex, handig en goedkoper. Wat wil je nog meer?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://maarten-vissers.github.io/work/proj-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maarten-vissers.github.io/work/proj-2/</guid>
+      <description>
+
+&lt;h3 id=&#34;do-you-want-to-know-how-kahoot-works-watch-this-video-and-become-a-kahoot-master:6ea243d84e2642e116a25f28045ce15f&#34;&gt;Do you want to know how Kahoot works? Watch this video and become a Kahoot-master.&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/pjFtuMjKIIA?t=35s&#34; title=&#34;Kahoot IT-Tapa Instruction Video&#34;&gt;&lt;img src=&#34;http://i.imgur.com/pdGt93S.png&#34; alt=&#34;Kahoot IT-Tapa Instruction Video&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://maarten-vissers.github.io/work/proj-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maarten-vissers.github.io/work/proj-12/</guid>
+      <description>
+
+&lt;h2 id=&#34;utm:5c67cbb8d1315feed1e1237d83ba739a&#34;&gt;UTM&lt;/h2&gt;
+
+&lt;p&gt;I am going to tell you something more about Unified Threat Management or UTM. The most important goal about this device: security. It is an all-in-one based on security/protection. Normally you buy everything separately (antivirus, malware protection&amp;hellip;). This could possibly be better if you have a small company, because it is cheaper. Unified Threat Management is used in the town hall of Zoersel because it is the most effective security device made for them. The ICT Coordinator manages the device. He checks that everything is going fine and if something goes wrong, for example
+spam that is not blocked, the ICT Coordinator is the one who is going to take care of that.&lt;/p&gt;
+
+&lt;p&gt;UTM is, like I said, an all-in-one based on the security of a network, it contains things like: firewall, VPN, anti-spam, intrusion prevention, content filtering, antivirus, anti-malware and a lot more things. There are a lot of providers for an UTM device (all with their own managing tool): Sophos, Panda, SonicWALL, Juniper, Cisco, McAfee&amp;hellip; Zoersel uses Sophos, because this is in general the fastest provider.&lt;/p&gt;
+
+&lt;p&gt;UTM can be bought in all kinds of formats:&lt;br /&gt;
+&lt;em&gt;small: about 40 users,&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;medium: about 150 users,&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;big: + 150 users.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In Zoersel they originally started by buying all kinds of software/devices separately, but the town hall got bigger and the UTM was the best solution to take care of everything. One big advantage is that it is very cheap if you have a big company, that is the main reason why Zoersel has a UTM at the moment. There are a lot of other advantages, it is faster and less difficult. What I like is that everything is inside one software tool and that has a lot of assets based on collaboration and management. UTM also has a few disadvantages. The worst thing about the tool is if it turns off, there is no network security anymore, but Zoersel is prepared for that: High Availability mode. This means that a second device is placed below the first device and the second device takes care of everything if the first device is turned off. But the second device is also active when the first device is updating for example. There is another minus: it is possible that your network slows down. The reason is simple: all the data has to come through the UTM-device. The faster you want your network to be, the more you are going to pay for it.&lt;/p&gt;
+
+&lt;p&gt;The price is based on how fast your network has to be. You can also divide all data over two UTM devices, that is going to be twice as fast. If you do that, the price is going to be a lot more expensive because you have to buy a license for both of the devices. The faster you want your network to be, the more you are going to pay for that. I rate it a &lt;sup&gt;9&lt;/sup&gt;&amp;frasl;&lt;sub&gt;10&lt;/sub&gt; and  I would recommend it because it is a very good tool based on protection, it is also very easy to use.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://maarten-vissers.github.io/work/proj-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maarten-vissers.github.io/work/proj-1/</guid>
+      <description>
+
+&lt;h3 id=&#34;wil-jij-weten-hoe-kahoot-werkt-bekijk-deze-video-en-word-een-kahoot-master:65b2f0309777feb2ce81b862f1116292&#34;&gt;Wil jij weten hoe Kahoot werkt? Bekijk deze video en word een Kahoot master!&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/S7AEDx58VIc?t=154s&#34; title=&#34;Kahoot Instructiefilmpje&#34;&gt;&lt;img src=&#34;http://i.imgur.com/uQaeuRQ.png&#34; alt=&#34;Kahoot Instructiefilmpje&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://maarten-vissers.github.io/work/proj-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maarten-vissers.github.io/work/proj-3/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;img/work/proj-3/img1.jpg&#34; alt=&#34;Crispy Icons&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;in-deze-taak-neem-ik-jullie-mee-in-mijn-it-tapa-sessie:f521650928eb6c61ae7fa95c67679c74&#34;&gt;In deze taak neem ik jullie mee in mijn IT-Tapa sessie.&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/work/proj-3/img2.jpg&#34; alt=&#34;Crispy Icons&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;De laatste dag van de week was het aan ons, ik en Bert Caeyers, om Kahoot voor te stellen. Iets wat op voorhand niet echt aangenaam leek te zijn, bleek achteraf gezien wel leuk te zijn. We zijn begonnen met een quiz met leuke, actuele vragen. Vervolgens gingen we door de stappen en mochten zij mee doen. Daarna was het aan hun om zich te bewijzen door middel van een quiz. Deze quiz ging over Kahoot zelf, de ideale methode om de leerkrachten te testen. Als laatste mochten ze individueel nog een quiz proberen maken en vragen stellen indien ze dat wilden.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/work/proj-3/img3.jpg&#34; alt=&#34;Crispy Icons&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Het was een geslaagde sessie!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mijn medewerker:&lt;/strong&gt; &lt;a href=&#34;http://bert-caeyers.github.io/&#34; title=&#34;BertCaeyers&#34;&gt;Bert Caeyers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Facebook:&lt;/strong&gt; &lt;a href=&#34;https://www.facebook.com/IT-tapa-588405757863108/?fref=ts&#34; title=&#34;ITTapa&#34;&gt;IT-Tapa&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tutorial:&lt;/strong&gt; &lt;a href=&#34;https://www.youtube.com/watch?v=S7AEDx58VIc&#34; title=&#34;ITTapa&#34;&gt;IT-Tapa&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tutorial Engels:&lt;/strong&gt; &lt;a href=&#34;https://www.youtube.com/watch?v=pjFtuMjKIIA&#34; title=&#34;ITTapa&#34;&gt;IT-Tapa&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://maarten-vissers.github.io/work/proj-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maarten-vissers.github.io/work/proj-5/</guid>
+      <description>
+
+&lt;h3 id=&#34;bekijk-hieronder-mijn-vergelijking-tussen-wordpress-en-hugo-en-vergeet-zeker-de-structuur-van-hugo-niet-te-bezien:1eae9375fe89232587f9c3dbde50572b&#34;&gt;Bekijk hieronder mijn vergelijking tussen Wordpress en Hugo en vergeet zeker de structuur van Hugo niet te bezien!&lt;/h3&gt;
+
+&lt;h1 id=&#34;1-wordpress-vs-go-hugo:1eae9375fe89232587f9c3dbde50572b&#34;&gt;1) Wordpress vs (Go)Hugo&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Welkom op mijn vergelijking tussen Wordpress en GoHugo. WordPress is een online, &lt;strong&gt;open source website creation tool&lt;/strong&gt; geschreven in PHP. Hugo is een &lt;strong&gt;static site generator&lt;/strong&gt;. Dit betekent dat, in tegenstelling tot systemen zoals  WordPress, Ghost and Drupal, die op uw web server draaien elke keer hun page bouwen als een bezoeker er op klikt. Bij Hugo is het al gebouwd bij het maken van uw content en hoeft dit dus maar één keer te gebeuren.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Hugo en Wordpress lijken ergens wel op elkaar. Je maakt bij beide eerst een site, kiest een thema en maakt post. Wordpress daarentegen is stukken gemakkelijker dan Hugo. Bij WordPress doe je alles via een soort van GUI, in tegenstelling tot Hugo waar je alles met code doet. Zowel in je site als in de command prompt bij het maken van die code b.v.: Site maken&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;gt;hugo new site GipSite
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;: Test.md bestand maken in de map &amp;ldquo;post&amp;rdquo;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;gt;hugo new post\test.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Zelf vind ik Hugo het meest interessante, het is meer IT-gerelateerd. In het begin is het heel moeilijk, je moet ergens aan beginnen waar je niets van weet. Uiteindelijk is iedereen er wel in geslaagd door middel van zelfstudie en hulp van vrienden er te geraken. Dat is wat wij later ook zullen moeten doen, want dan is er geen leeraar die ons helpt. De eerste weken heb ik problemen gehad met Hugo omdat ik vaak te moeilijke thema&amp;rsquo;s had, maar het is net daardoor dat ik het nu snap. Ik snap nu bijvoorbeeld hoe de content verbonden is met de single.html, deze zorgt namelijk voor de opmaak van de content. Ik weet ook veel meer over partials. Iets waar ik voor Hugo bijna niets van wist, ken ik nu heel goed.&lt;/p&gt;
+
+&lt;p&gt;Bij Hugo begin je met een site te maken en vervolgens een thema te kiezen. De moeilijkste stap is het thema configuren en alle instelling in de config.toml te doen werken. Vervolgens kan je beginnen met post, zoals de code hierboven, deze kan je dan bewerken met behulp van lay-outs en dergelijke. In WordPress is het heel gemakkelijk. Je hoeft enkel te klikken op: &amp;ldquo;nieuwe site maken&amp;rdquo; of &amp;ldquo;nieuwe post maken&amp;rdquo; en je krijgt een scherm waar alles duidelijk is.&lt;/p&gt;
+
+&lt;h2 id=&#34;kleine-vergelijking:1eae9375fe89232587f9c3dbde50572b&#34;&gt;Kleine vergelijking&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Aspecten&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Wordpress&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Hugo&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Moeilijkheidsgraad&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Gemakkelijk&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Gevorderd&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Op elke pc bereikbaar&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Ja&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Ja&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Git&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Nee&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Ja&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Snel&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Ja&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Nee&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Bouwen (build)&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Klik op pagina&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Eenmalig&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;De Hugo site wordt gehost door github pages. In deze directory wordt je public map van hugo geplaatst.&lt;/p&gt;
+
+&lt;h1 id=&#34;2-directory-structuur:1eae9375fe89232587f9c3dbde50572b&#34;&gt;2) Directory-Structuur&lt;/h1&gt;
+
+&lt;h2 id=&#34;mijn-hugo-mappen-en-bestanden:1eae9375fe89232587f9c3dbde50572b&#34;&gt;Mijn Hugo mappen en bestanden&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Content&lt;/li&gt;
+&lt;li&gt;Layouts&lt;/li&gt;
+&lt;li&gt;Static&lt;/li&gt;
+&lt;li&gt;Config.toml&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Alles komt van verchillende thema&amp;rsquo;s buiten content, die heb ik zelf geschreven.Vervolgens een woordje uitleg.&lt;/p&gt;
+
+&lt;h2 id=&#34;content:1eae9375fe89232587f9c3dbde50572b&#34;&gt;Content&lt;/h2&gt;
+
+&lt;p&gt;In de content staan jouw markdown (.md) bestanden, bv. giptaken. Hier schrijf je markdown code die later in de layouts wordt omgezet in html. Wat ik ga doen is hier twee mappen maken: giptaken en stageverslagen.&lt;/p&gt;
+
+&lt;h2 id=&#34;layouts:1eae9375fe89232587f9c3dbde50572b&#34;&gt;Layouts&lt;/h2&gt;
+
+&lt;p&gt;Hier worden je markdown bestanden omgezet naar html-bestanden, zoals voordien vermeld. Zoal ik al zei ging ik twee mappen maken, dat wilt dus zeggen dat ik bij layouts eventueel ook twee dezelfde mappen kan maken en ze allebei een andere opmaak geven door middel van de single.
+Ik geef ze dezelfde opmaak, dus maak ik gebruik van een _default map met maar één single in. Bij layouts kan je ook de thema&amp;rsquo; mixen door er partials van andere thema&amp;rsquo;s aan toe te voegen.&lt;/p&gt;
+
+&lt;h2 id=&#34;static:1eae9375fe89232587f9c3dbde50572b&#34;&gt;Static&lt;/h2&gt;
+
+&lt;p&gt;Css, fonts, images, javascript&amp;hellip;? Dat behoort hier! Vergeet niet bij het mixen van de thema&amp;rsquo;s ook de css en dergelijke van het andere thema hier te plaatsen!&lt;/p&gt;
+
+&lt;h2 id=&#34;config-toml:1eae9375fe89232587f9c3dbde50572b&#34;&gt;Config.toml&lt;/h2&gt;
+
+&lt;p&gt;De configuratie gebeurt hier. Gegevens van uw site, uw account of beschrijvingen, namen van knoppen en dergelijke, die geef je hier mee!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;De config en de layout samen doen werken vond ik zeer moeilijk. Ook een tweede thema in de site mengen was geen gemakkelijke opdracht, maar ze zijn wel gelukt!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://maarten-vissers.github.io/work/proj-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maarten-vissers.github.io/work/proj-8/</guid>
+      <description>
+
+&lt;h3 id=&#34;wat-meer-te-weten-komen-over-het-uiterlijk-van-mijn-stageplaats-vergeet-niet-onderstaande-taak-door-te-nemen:e641d61060343f14ea634961cc91cbfe&#34;&gt;Wat meer te weten komen over het uiterlijk van mijn stageplaats? Vergeet niet onderstaande taak door te nemen!&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/work/proj-8/img1.jpg&#34; alt=&#34;analyse&#34; /&gt;
+
+&lt;img src=&#34;img/work/proj-8/img2.jpg&#34; alt=&#34;analyse&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://maarten-vissers.github.io/work/proj-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maarten-vissers.github.io/work/proj-6/</guid>
+      <description>
+
+&lt;h3 id=&#34;faq-au-sujet-de-kahoot:7564a0a8c01447d9ac7be687dc2b3e8c&#34;&gt;FAQ au sujet de Kahoot!&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/im8N4ko.png&#34; alt=&#34;alt text&#34; title=&#34;FAQ&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://maarten-vissers.github.io/work/proj-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maarten-vissers.github.io/work/proj-7/</guid>
+      <description>
+
+&lt;h3 id=&#34;intresse-in-mijn-leven-als-een-informaticus-hoe-het-allemaal-begon-en-wat-ik-in-de-toekomst-wil-doen-vindt-u-hieronder:71424a5d999d659b89b1de200343e57e&#34;&gt;Intresse in mijn leven als een informaticus? Hoe het allemaal begon en wat ik in de toekomst wil doen, vindt u hieronder.&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;The story of my IT life&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My name is Maarten, I am seventeen years old at the moment. Back in the days I was a proud team member of one of the greatest ‘sniperclans’ in Belgium named: TreXz. We had a great time on ‘Call of Duty: Black Ops’, but right now I am not that kind of user anymore.&lt;/p&gt;
+
+&lt;p&gt;It all began a few years ago when a friend of mine asked me to come over and play a game: Habbo Hotel. The biggest part of the game was chatting and talking to people combined with little games, but nothing special. I was fourteen years old when I played Habbo, my first online game. One year later my parents amazingly gave me a PlayStation 3 for Christmas, but I never really played with it. A few weeks later that same friend came over with Call of Duty Black Ops and we played it together for the first time and I immediately fell in love with it. I bought it myself and played a lot with it, after literary a few years of playing I joined the clan where I’ve already talked about: TreXz. After a long time I got myself interested in Anonymous, one of the most famous hack groups of all time. From that point I knew I wanted to do something with IT. Not because I wanted to be a hacker, but because I wanted to be able to understand what they actually did.&lt;/p&gt;
+
+&lt;p&gt; 
+I started my secondary school on Maris Stella and went in my third year to Immaculata. The first and biggest reason was because Immaculata is more IT related, secondly I didn’t want to learn things I am never supposed to know. Right now I’m not a big gamer anymore, the only IT-related thing I really like to do is programming. I spend most of my free time on social media: Facebook, Instagram… I have two IT courses: system management and programming. Unfortunately, I don’t really like system management. Not because of the teacher or the exercises, but I just don’t like it. Programming is my thing, I am not the best programmer, but I really like it. Building websites or making scripts are two things I really enjoy doing.&lt;/p&gt;
+
+&lt;p&gt;Being able to understand what hackers actually do, is surprisingly still the thing that interests me the most. That’s why I am going to study cyber-crime. Cyber-crime is actually fighting against hackers, but it’s only possible if you understand what they do. If I succeed, I see myself in the future as a police-officer working for the department cyber-crime. I am not sure if I want to sit behind a computer for the rest of my life, but I still have a lot of other opportunities and things I really want to do.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/work/proj-7/img1.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://maarten-vissers.github.io/work/proj-9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maarten-vissers.github.io/work/proj-9/</guid>
+      <description>
+
+&lt;h3 id=&#34;ook-zoveel-interesse-in-voetbal-voer-deze-code-uit-in-mysqlworkbench-en-stem-op-jouw-favoriete-club:2901509bac9ccf6640212ac11f572262&#34;&gt;Ook zoveel interesse in voetbal? Voer deze code uit in mySqlWorkbench en stem op jouw favoriete club!&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Maak je database en stel het in als standaarddatabase&lt;/strong&gt;&lt;br /&gt;
+create schema gip_taak_08_VissersMaarten;&lt;br /&gt;
+use gip_taak_08_VissersMaarten;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Maak de tabel Users&lt;/strong&gt;&lt;br /&gt;
+create table User(&lt;br /&gt;
+    id int not null auto_increment primary key,&lt;br /&gt;
+    name text not null,&lt;br /&gt;
+    functie text not null,&lt;br /&gt;
+    email text not null,&lt;br /&gt;
+    password text not null&lt;br /&gt;
+    );&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Maak de tabel Users&lt;/strong&gt;&lt;br /&gt;
+create table Votes(&lt;br /&gt;
+    id int not null auto_increment primary key,&lt;br /&gt;
+    user_id int not null,&lt;br /&gt;
+    club_id int not null,&lt;br /&gt;
+    score int not null&lt;br /&gt;
+    );&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Maak de tabel Club&lt;/strong&gt;&lt;br /&gt;
+create table Club(&lt;br /&gt;
+    id int not null auto_increment primary key,&lt;br /&gt;
+    name text not null,&lt;br /&gt;
+    logo text not null&lt;br /&gt;
+    );&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Maak de tabel Chatbericht&lt;/strong&gt;&lt;br /&gt;
+create table Chatbericht(&lt;br /&gt;
+    id int not null auto_increment primary key,&lt;br /&gt;
+    user_id int not null,&lt;br /&gt;
+    bericht text not null,&lt;br /&gt;
+    tijdstip datetime not null&lt;br /&gt;
+    );&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Voeg dingen toe aan Chatbericht&lt;/strong&gt;&lt;br /&gt;
+insert into Chatbericht (id, user_id, bericht, tijdstip)&lt;br /&gt;
+VALUES&lt;br /&gt;
+(1, 3, &amp;ldquo;Hallo gasten&amp;rdquo;, &amp;lsquo;2016-04-19 13:23:44&amp;rsquo;),&lt;br /&gt;
+(2, 1, &amp;ldquo;Jo Mannen&amp;rdquo;, &amp;lsquo;2016-04-19 12:13:45&amp;rsquo;),&lt;br /&gt;
+(3, 2, &amp;ldquo;Manne zwegt ik zijn naar de shot aan het zien&amp;rdquo;, &amp;lsquo;2016-04-19 14:28:44&amp;rsquo;),&lt;br /&gt;
+(4, 3, &amp;ldquo;GODVERDOMME TOKKELIER DAS NA ELKE MATCH HETZELFDE HIEEEEEEE, GISTER WAST OEK AL ZOW&amp;rdquo;, &amp;lsquo;2016-04-20 05:05:05&amp;rsquo;);&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Voeg dingen toe aan User&lt;/strong&gt;&lt;br /&gt;
+insert into User (id, name, functie, email, password)&lt;br /&gt;
+values&lt;br /&gt;
+(1, &amp;ldquo;MaartenRAFC&amp;rdquo;, &amp;ldquo;Admin&amp;rdquo;, &amp;ldquo;maarten.rafc@hotmail.com&amp;rdquo;, &amp;ldquo;rafc1180&amp;rdquo;),&lt;br /&gt;
+(2, &amp;ldquo;TokkeLier&amp;rdquo;, &amp;ldquo;Voter&amp;rdquo;, &amp;ldquo;tokkeLIER@lierse.be&amp;rdquo;, &amp;ldquo;liersetillidie&amp;rdquo;),&lt;br /&gt;
+(3, &amp;ldquo;Ricardientje&amp;rdquo;, &amp;ldquo;Voter&amp;rdquo;, &amp;ldquo;ricardinoAXEL@axelislove.be&amp;rdquo;, &amp;ldquo;axeltjexxx&amp;rdquo;);&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Voeg dingen toe aan Votes&lt;/strong&gt;&lt;br /&gt;
+insert into Votes(id, user_id, club_id, score)&lt;br /&gt;
+values&lt;br /&gt;
+(1, 1, 1, 3),&lt;br /&gt;
+(2, 1, 2, 2),&lt;br /&gt;
+(3, 1, 3, 1),&lt;br /&gt;
+(4, 2, 2, 3),&lt;br /&gt;
+(5, 2, 1, 2),&lt;br /&gt;
+(6, 2, 3, 1),&lt;br /&gt;
+(7, 3, 1, 3),&lt;br /&gt;
+(8, 3, 3, 2),&lt;br /&gt;
+(9, 3, 2, 1);&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Voeg dingen toe aan Club&lt;/strong&gt;&lt;br /&gt;
+insert into Club(id, name, logo)&lt;br /&gt;
+values&lt;br /&gt;
+(1, &amp;ldquo;R Antwerp FC&amp;rdquo;, &amp;ldquo;test&amp;rdquo;),&lt;br /&gt;
+(2, &amp;ldquo;Lierse&amp;rdquo;, &amp;ldquo;test&amp;rdquo;),&lt;br /&gt;
+(3, &amp;ldquo;KV Mechelen&amp;rdquo;, &amp;ldquo;test&amp;rdquo;);&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TESTS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Toont de scores van Users&lt;/strong&gt;&lt;br /&gt;
+SELECT Votes.id, user.name, Club.name, Votes.score&lt;br /&gt;
+FROM Votes JOIN User&lt;br /&gt;
+ON Votes.user_id = User.id&lt;br /&gt;
+JOIN Club&lt;br /&gt;
+ON Votes.club_id = Club.id;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;De chat&lt;/strong&gt;&lt;br /&gt;
+SELECT User.name, User.functie, Chatbericht.bericht, Chatbericht.tijdstip&lt;br /&gt;
+FROM Chatbericht JOIN User&lt;br /&gt;
+ON Chatbericht.user_id = User.id&lt;br /&gt;
+ORDER BY Chatbericht.tijdstip;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Score per club&lt;/strong&gt;&lt;br /&gt;
+Select  Club.name, SUM(Votes.score)&lt;br /&gt;
+From Club Join Votes&lt;br /&gt;
+On Club.id = Votes.Club_id&lt;br /&gt;
+Group by Club.id;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,100 @@
+
+
+<h3 id="bekijk-hieronder-mijn-vergelijking-tussen-wordpress-en-hugo-en-vergeet-zeker-de-structuur-van-hugo-niet-te-bezien:1eae9375fe89232587f9c3dbde50572b">Bekijk hieronder mijn vergelijking tussen Wordpress en Hugo en vergeet zeker de structuur van Hugo niet te bezien!</h3>
+
+<h1 id="1-wordpress-vs-go-hugo:1eae9375fe89232587f9c3dbde50572b">1) Wordpress vs (Go)Hugo</h1>
+
+<p><em>Welkom op mijn vergelijking tussen Wordpress en GoHugo. WordPress is een online, <strong>open source website creation tool</strong> geschreven in PHP. Hugo is een <strong>static site generator</strong>. Dit betekent dat, in tegenstelling tot systemen zoals  WordPress, Ghost and Drupal, die op uw web server draaien elke keer hun page bouwen als een bezoeker er op klikt. Bij Hugo is het al gebouwd bij het maken van uw content en hoeft dit dus maar één keer te gebeuren.</em></p>
+
+<p>Hugo en Wordpress lijken ergens wel op elkaar. Je maakt bij beide eerst een site, kiest een thema en maakt post. Wordpress daarentegen is stukken gemakkelijker dan Hugo. Bij WordPress doe je alles via een soort van GUI, in tegenstelling tot Hugo waar je alles met code doet. Zowel in je site als in de command prompt bij het maken van die code b.v.: Site maken</p>
+
+<pre><code>&gt;hugo new site GipSite
+</code></pre>
+
+<p>: Test.md bestand maken in de map &ldquo;post&rdquo;</p>
+
+<pre><code>&gt;hugo new post\test.md
+</code></pre>
+
+<p>Zelf vind ik Hugo het meest interessante, het is meer IT-gerelateerd. In het begin is het heel moeilijk, je moet ergens aan beginnen waar je niets van weet. Uiteindelijk is iedereen er wel in geslaagd door middel van zelfstudie en hulp van vrienden er te geraken. Dat is wat wij later ook zullen moeten doen, want dan is er geen leeraar die ons helpt. De eerste weken heb ik problemen gehad met Hugo omdat ik vaak te moeilijke thema&rsquo;s had, maar het is net daardoor dat ik het nu snap. Ik snap nu bijvoorbeeld hoe de content verbonden is met de single.html, deze zorgt namelijk voor de opmaak van de content. Ik weet ook veel meer over partials. Iets waar ik voor Hugo bijna niets van wist, ken ik nu heel goed.</p>
+
+<p>Bij Hugo begin je met een site te maken en vervolgens een thema te kiezen. De moeilijkste stap is het thema configuren en alle instelling in de config.toml te doen werken. Vervolgens kan je beginnen met post, zoals de code hierboven, deze kan je dan bewerken met behulp van lay-outs en dergelijke. In WordPress is het heel gemakkelijk. Je hoeft enkel te klikken op: &ldquo;nieuwe site maken&rdquo; of &ldquo;nieuwe post maken&rdquo; en je krijgt een scherm waar alles duidelijk is.</p>
+
+<h2 id="kleine-vergelijking:1eae9375fe89232587f9c3dbde50572b">Kleine vergelijking</h2>
+
+<table>
+<thead>
+<tr>
+<th align="left">Aspecten</th>
+<th align="right">Wordpress</th>
+<th align="center">Hugo</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="left"><strong>Moeilijkheidsgraad</strong></td>
+<td align="right">Gemakkelijk</td>
+<td align="center">Gevorderd</td>
+</tr>
+
+<tr>
+<td align="left"><strong>Op elke pc bereikbaar</strong></td>
+<td align="right">Ja</td>
+<td align="center">Ja</td>
+</tr>
+
+<tr>
+<td align="left"><strong>Git</strong></td>
+<td align="right">Nee</td>
+<td align="center">Ja</td>
+</tr>
+
+<tr>
+<td align="left"><strong>Snel</strong></td>
+<td align="right">Ja</td>
+<td align="center">Nee</td>
+</tr>
+
+<tr>
+<td align="left"><strong>Bouwen (build)</strong></td>
+<td align="right">Klik op pagina</td>
+<td align="center">Eenmalig</td>
+</tr>
+</tbody>
+</table>
+
+<p>De Hugo site wordt gehost door github pages. In deze directory wordt je public map van hugo geplaatst.</p>
+
+<h1 id="2-directory-structuur:1eae9375fe89232587f9c3dbde50572b">2) Directory-Structuur</h1>
+
+<h2 id="mijn-hugo-mappen-en-bestanden:1eae9375fe89232587f9c3dbde50572b">Mijn Hugo mappen en bestanden</h2>
+
+<ul>
+<li>Content</li>
+<li>Layouts</li>
+<li>Static</li>
+<li>Config.toml</li>
+</ul>
+
+<p>Alles komt van verchillende thema&rsquo;s buiten content, die heb ik zelf geschreven.Vervolgens een woordje uitleg.</p>
+
+<h2 id="content:1eae9375fe89232587f9c3dbde50572b">Content</h2>
+
+<p>In de content staan jouw markdown (.md) bestanden, bv. giptaken. Hier schrijf je markdown code die later in de layouts wordt omgezet in html. Wat ik ga doen is hier twee mappen maken: giptaken en stageverslagen.</p>
+
+<h2 id="layouts:1eae9375fe89232587f9c3dbde50572b">Layouts</h2>
+
+<p>Hier worden je markdown bestanden omgezet naar html-bestanden, zoals voordien vermeld. Zoal ik al zei ging ik twee mappen maken, dat wilt dus zeggen dat ik bij layouts eventueel ook twee dezelfde mappen kan maken en ze allebei een andere opmaak geven door middel van de single.
+Ik geef ze dezelfde opmaak, dus maak ik gebruik van een _default map met maar één single in. Bij layouts kan je ook de thema&rsquo; mixen door er partials van andere thema&rsquo;s aan toe te voegen.</p>
+
+<h2 id="static:1eae9375fe89232587f9c3dbde50572b">Static</h2>
+
+<p>Css, fonts, images, javascript&hellip;? Dat behoort hier! Vergeet niet bij het mixen van de thema&rsquo;s ook de css en dergelijke van het andere thema hier te plaatsen!</p>
+
+<h2 id="config-toml:1eae9375fe89232587f9c3dbde50572b">Config.toml</h2>
+
+<p>De configuratie gebeurt hier. Gegevens van uw site, uw account of beschrijvingen, namen van knoppen en dergelijke, die geef je hier mee!</p>
+
+<p><em>De config en de layout samen doen werken vond ik zeer moeilijk. Ook een tweede thema in de site mengen was geen gemakkelijke opdracht, maar ze zijn wel gelukt!</em></p>
+
